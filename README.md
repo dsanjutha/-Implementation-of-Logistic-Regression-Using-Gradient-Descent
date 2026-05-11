@@ -67,7 +67,6 @@ print("Predicted Classes:", [1 if i > 0.5 else 0 for i in predictions])
 <img width="780" height="110" alt="image" src="https://github.com/user-attachments/assets/dfb3060f-9866-457c-a4f5-2cfb085e6793" />
 
 
-
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
